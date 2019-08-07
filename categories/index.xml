@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Your Site Name</title>
-    <link>https://mtinet.github.io/post_circuit/categories/</link>
+    <link>http://mtinet.github.io/post_circuit/categories/</link>
     <description>Recent content in Categories on Your Site Name</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Your Site copyright</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mtinet.github.io/post_circuit/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mtinet.github.io/post_circuit/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://mtinet.github.io/post_circuit/categories/development/</link>
+      <link>http://mtinet.github.io/post_circuit/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mtinet.github.io/post_circuit/categories/development/</guid>
+      <guid>http://mtinet.github.io/post_circuit/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://mtinet.github.io/post_circuit/categories/golang/</link>
+      <link>http://mtinet.github.io/post_circuit/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mtinet.github.io/post_circuit/categories/golang/</guid>
+      <guid>http://mtinet.github.io/post_circuit/categories/golang/</guid>
       <description></description>
     </item>
     
